@@ -45,7 +45,8 @@
 - Backend Development  
 
 ## 📫 Contact
-📧 pablovargas44@gmail.com  
+📧 pablovargas44@gmail.com
+Linkedin: https://www.linkedin.com/in/pablo-francisco-vargas-barriga-09198b335/
 
 ---
 
